@@ -13,6 +13,7 @@ app.use((req, res) => {
 });
 
 const test = {test:"test"}
+const test2 = {test:"test"}
 // app.use(async (err, req, res, next) => {
 //   const { status = 500, message = "Server error" } = err;
 //   res.status(status).json({ message });
