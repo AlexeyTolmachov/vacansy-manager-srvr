@@ -1,1 +1,1 @@
-# vacansy-manager-srvr
+# vacansy-manager-server
